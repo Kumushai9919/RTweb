@@ -42,6 +42,19 @@ const Hero = () => {
           <Button href="/pricing" white>
             Get Started
           </Button>
+          <h1 className="h1 mb-6 mt-6">
+            {` `}
+            <span className="inline-block relative">
+              Shashyk{" "}
+              <img
+                src={curve}
+                alt="brainwave curve"
+                className="absolute top-full left-0 w-full xl:-mt-2"
+                width={624}
+                height={28}
+              />
+            </span>
+          </h1>
         </div>
         <div className="relative max-w-[23rem] mx-auto md:max-w-5xl xl:mb-24">
           <div className="relative z-1 p-0.5 rounded-2xl bg-conic-gradient ">
