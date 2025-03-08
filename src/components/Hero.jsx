@@ -45,7 +45,7 @@ const Hero = () => {
           <h1 className="h1 mb-6 mt-6">
             {` `}
             <span className="inline-block relative">
-              Shashyk{" "}
+              Brainwave{" "}
               <img
                 src={curve}
                 alt="brainwave curve"
