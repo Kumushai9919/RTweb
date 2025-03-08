@@ -27,16 +27,20 @@ To get started with the project, follow these steps:
    cd brainwave-project
    ```
 2. Install dependencies:
-
-```
-  npm install
-```
+   
+   ```
+   npm install
+   ```
 
 3. Start the development server:
-
-```
-npm run dev
-
-```
+   
+   ```
+   npm run dev
+   ```
 
 ### Screenshots
+
+![Screenshot 2025-03-08 at 1 22 07 PM](https://github.com/user-attachments/assets/42cd81a3-34a7-4dac-a6dc-eb0219e46d7d)
+![Screenshot 2025-03-08 at 1 22 58 PM](https://github.com/user-attachments/assets/004e0116-9609-40f9-aa20-a0b2e167efc5)
+![Screenshot 2025-03-08 at 1 22 29 PM](https://github.com/user-attachments/assets/2413508a-1ce4-4e31-bbdc-68db3116ea22)
+![Screenshot 2025-03-08 at 1 22 44 PM](https://github.com/user-attachments/assets/0a45443d-ca32-495a-9ff2-b37209c308a2)
